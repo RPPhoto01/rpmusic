@@ -186,7 +186,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Telefo"
+                "customTitle": "Telefon"
               },
               "message": {
                 "title": "Message",
