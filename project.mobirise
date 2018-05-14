@@ -67,7 +67,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/apa-960x640.jpg",
@@ -80,10 +80,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayOpacity": "0.5"
           },
           "title": "Rólam",
-          "caption": "<p>Rigó Péter vagyok. Több mint 20 éve muzsikálok főként a Dél-Alföldön, különböző rendezvényeken: partyk, bálak, lakodalmak, falunapok, vacsoraestek, fesztiválok, stb... alkalmával, de megfordultam már az ország számos távolabbi vidékén, és több ízben küldöldön is. A civil életben pedagógusként dolgozom 25 éve, magyar-ének-zene szakos tanárként.</p><p><span style=\"font-size: 1.25rem;\">Szólóban és különböző nagyságú formációkban is igénybe vehető a zeneszolgáltatás. Számos korábbi megrendelőm megelégedettségge arra ösztönöz, hogy a jövőben is törekedjem a minőségre és az igények maximális figyelembe vételére.</span></p><p><span style=\"font-size: 1.25rem;\">Forduljon hozzám, bizalommal! Sok szeretettel várom Önökek muzsikaszóval!<br>&nbsp;</span></p>",
+          "caption": "<p>Rigó Péter vagyok. Több mint 20 éve muzsikálok főként a Dél-Alföldön, különböző rendezvényeken: partyk, bálak, lakodalmak, falunapok, vacsoraestek, fesztiválok, stb... alkalmával, de megfordultam már az ország számos távolabbi vidékén, és több ízben küldöldön is. A civil életben pedagógusként dolgozom 25 éve, magyar-ének-zene szakos tanárként.</p><p><span style=\"font-size: 1.25rem;\">Szólóban és különböző nagyságú formációkban is igénybe vehető a zeneszolgáltatás. Számos korábbi megrendelőm megelégedettségge arra ösztönöz, hogy a jövőben is törekedjem a minőségre és az igények maximális figyelembe vételére.</span></p><p><span style=\"font-size: 1.25rem;\">Forduljon hozzám, bizalommal! Sok szeretettel várom Önökek muzsikaszóval!</span></p><p>Rigó Péter</p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Téma"
